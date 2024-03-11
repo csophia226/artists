@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<title>A few of my favorite artists</title>
+<!-- If I could list more I definetly would-->
+<html lang="en US">
+<style>
+p.a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+  text-align: left;
+}
+</style>
+<h1 style="background-color:powderblue;">When asked who is my favorite artist</h1>
+<address>Written by Christen Ashburn class CTI 110: Assignment 2: Practicing HTML & Web Design</address>
+<p>I have always had a love for art and thought this would be good practice in displaying some of my favorite artists, I have them listed in no particular order. I'm grade these artists on how much I would like for my art style to be like theirs. Grading out of 10, 10 being the highest grade possible. <b> I'm not sure I would be able to choose a favorite.</b></p>
+<ol style="text-color:primary">
+  <li>Hayao Miyazaki 10/10</li>
+  <li>Roberto Ferri 10/10</li>
+  <li>Tyler Thrasher 10/10</li>
+  <li>Tiny Protectors 10/10</li>
+  <li>Pixel Jeff 10/10</li>
+</ol>
+<!-- I gave them all ten out of ten because I love their art so much. -->
+<hr>
+<h2>Hayao Miyazaki</h2>
+<img height="100" width="100" src="Hayao_Miyazaki.jpg" alt="Hayao Miyazaki">
+<p>When I was growing up I always admired Hayao Miyazaki work's. <strong> Not only was <abbr title="Hayao Miyazaki">Miyazaki</abbr> a co-founder for Studio-Ghibli he is an acclaimed story teller and animator.</strong></p>
+<a href="https://www.studioghibli.com.au/">Studio Ghibli</a>
+<!-- I wanted to have more links listed for their work but couldn't find much that wasn't fan made.-->
+<br>
+<h3>Roberto Ferri</h3>
+<!-- Name sounds kind of like a race car and it lives rent free in my mind-->
+<img height="100" width="100" src="Roberto_Ferri.jpg" alt="Roberto Ferri">
+<p><i>One of my favorite artists of all time is probably Roberto Ferri.</i> This artistis able to capture so much feeling in their peices. They are strongly influenced by Baroque painting, so even though they are a relatively new artist their painginting have a 17th century feel.</p>
+<a href="https://www.robertoferri.net/">Roberto Ferri</a>
+<p>Roberto Ferri is currently has a show at the Palazzo Pallavicini. Which I would personally love to see it show cases some of my personal favorites which can briefly be viewed below.</p>
+<a href="https://www.youtube.com/watch?v=2rBfpxPWEao">Roberto Ferri - Palazzo Pallavicini</a>
+<br>
+<h4>Tyler Thrasher</h4>
+<img height="100" width="100" src="Tyler_Thrasher.jpg" alt="Tyler Thrasher">
+<p><em>A constant inspiration and an aspiration to all Tyler Thrasher.</em> Usually referred to as a mad scientist or an alchemist, still their art remains magical. From their  photography, to alchemy bugs and expirements they are truly one of a kind.</p>
+<a href="https://tylerthrasher.com/">Tyler Thrasher</a>
+<!-- They have some really cool projects that I would definetly recommend to everyone-->
+<p>One of the many reasons Tyler Thrasher remains a wonderful influence is they give back to the community. Many times I have seem their products be sold where either a percentage of the profits are going to a charity or relief fund or to help those in need in their community. I have linked one of their more recent projects.</p>
+<a href="https://www.instagram.com/p/CkTuSz6pRwh/?utm_source=ig_web_copy_link">kwapkwapkwap and tylerthrasherart</a>
+<br>
+<h5>Tiny Protectors</h5>
+<!-- My personal opinion is that they are doing great work and I am living for their froggy chair design.-->
+<img height="100" width="100" src="tiny_protectors.jpg" alt="Tiny Protectors">
+<p>While the creator for tiny protectors name is Alyssa. I would like to highlight their work ten the creator in this particular circumstance. I recently have fallen for their art, it gives cottage core feeling to what could be considered everyday objects. They are expanding into more furniture but for now they mostly show case items that can be used for protection.</p>
+<a href="http://tinyprotectors.com/">Tiny Protectos</a>
+<p><mark>Alyssa is the artist behind these creations and I would say they keep me motivated to keep creating.</mark> They have this ability to create a world for their creations and their attention to detail and the fact they started with selling prints keep me motivated to work on my own art.</p>
+<a href="https://www.instagram.com/alythuh/?hl=en">Alyssa</a>
+<!-- Alyssa is aspirational because they came up from making prints to now working on making furniture as they describe would be in animal crossing.-->
+<br>
+<h6>Pixel Jeff</h6>
+<img height="100" width="100" src="Pixel_Jeff_art.jpg" alt="Pixel Jeff">
+<p>I recently have been getting more into Pixel art. When learning about a new art style I usually try to find creators I can kind of use as reference. One of the more notable pixel artists would be Pixel Jeff.</p>
+<a href="https://www.instagram.com/pixeljeff_design/?hl=en">Pixel Jeff</a>
+<!-- Pixel Jeff has some really amazing work that teeters on the brink of pixel and illustration artwork-->
+<p><small>While learning about different Pixel artist  I did descover the artist Yuki who I believe deserves an honarble mention. Their art is more illustrative pixel art, which is the reason I appreciate it so much.</small></p>
+<a href="https://www.instagram.com/yuki77mi/?hl=en">Yuki</a>
+<!-- Yuki on the other hand is like a mix of illustration and pixel art work.-->
+<hr>
+<p><ins>I wouldn't be able to choose out right who my favorite artist is. Hayao Miyazaki will always hold a place in my heart. But I guess since I'm currently learning how to do a more illustrative pixel art style Yuki would be the artist I would most aspire to immulate.</ins>
+<sup>However, if I wasn't currently trying to work on a more pixel art style I think I would say Miyazaki is my overall favorite.</sup>
+<del>If I had to choose a favorite I guess I would say Hayao Miyazaki is my personal favorite. I have admired him all my life.</del>
+<sub>Miyazaki is overall one of the best creators I have had the fortune to stumble upon.</sub></p>
+<!-- Miyazaki is probably the first artist to come to mind when asked who is my favorite.-->
+<br>
+<b>Some of my favorite quotes by Miyazaki</b>
+<ul>
+  <li>"I would like to make a film to tell children "it's good to be alive"." - Hayao Miyazaki</li>
+  <li>"The creation of a single world comes from a huge number of fragments and chaos." - Hayao Miyazaki</li>
+  <li>"Always believe in yourself. Do this and no matter where you are, you will have nothing to fear." - Hayao Miyazaki</li>
+</ul>
+<p>I would also like to mention that Miyazaki before becoming a co-founder of Studio Ghibli worked on their manga series<cite> Nausicaa of the Valley of the Wind</cite> by Hayao Miyazaki. Original run 1982 - 1994</p>
+<!-- Nausicaa is a brilliant story about how humans can coexist with nature and I would definetly recommend to anyone and everyone-->
+<p>One of the main reasons I love Studio Ghibli's work is their attention to detail, from the sound track of every film they produce to the color pallets they use for each scene to provoke a sense of feeling. 
+Those same methods can be used for web design. For example in HTML colors are specified with predefined color names, such as primary is the color we use most at my current position. But also can be RGB, HEX, Alpha and HSL.
+In this example in HTML, RBG is of course red, green and blue each parameter deines how intense the color will be and the value is between 0 and 255. The highest value would be 255 which for example rgb(255, 0, 0) which will display red. 
+The sets of 0 zero in this example are green and blue so if you instead did rgb(0, 255, 0) this will instead display greens highest value and so on. 
+But for HEX colors are defined using a hexadecimal value where values are set between 00 and ff. For the same colors red (rr), green (gg), and blue (bb). 
+The values are set where ff is the highest value and go in the same order so for example, #00ff00 is displaying green since red and blue areset to 00 in this example.
+</P>
+<p>
+The HSL stands for hue, saturation and lightness. Hue is the degre of color, saturation is the percentage of color, and lightness is also a percentage of the value. So for red the value hsl value would be hsl(0, 100%, 50%).
+Then Alpha channel is the opacity of these colors which means the values can be more transparent or not at all. The number is set between 0.0 and 1.0 so using that same red color in the previous example except in hsla if you wanted it half way transperent it would be hsla(0, 100%, 50%, 0.5).
+I think it's importain to know the value this can bring in web design and color theory should be more widely studied.
+</p>
